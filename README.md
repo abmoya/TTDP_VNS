@@ -4,7 +4,7 @@
 
 Los turistas que visitan un determinado destino durante uno o más días, deben decidir qué puntos de interés (POIs, Points of Interest) son más atractivos para visitar, y establecer un orden de visita entre ellos. Habitualmente, dichos turistas disponen de un tiempo y un presupuesto limitados, y deben considerar el horario de apertura de cada POI, el tiempo que se empleará en visitarlo, el coste que se deriva de la visita, y el grado de satisfacción que puede proporcionar el POI, basado en el valor histórico, paisajístico o cultural, y en sus propias preferencias. 
 
-Este problema, conocido como Tourist Trip Design Problem (TTDP), constituye un problema de optimización y presenta una elevada complejidad computacional, por lo que las aproximaciones metaheurísticas resultan muy adecuadas para su resolución. Se propone para su resolución la utilización de metaheurísticas de trayectoria, en concreto de Búsqueda en Entornos Variables (VNS, Variable Neighbourhood Search) para su resolución.
+Este problema, conocido como Tourist Trip Design Problem (TTDP), constituye un problema de optimización y presenta una elevada complejidad computacional, por lo que las aproximaciones metaheurísticas resultan muy adecuadas para su resolución. Se propone para su resolución la utilización de metaheurísticas de trayectoria, en concreto de Búsqueda en Entornos Variables (VNS, Variable Neighbourhood Search).
 
 Este repositorio recoge la implementación en Python del algoritmo VNS en su versión Básica, y su aplicación a la planificación de rutas turísticas en destino (TTDP), junto con el conjunto de instancias de test utilizadas y los resultados obtenidos, para dos versiones del problema: TOPTW y TDTOPTW.
 
