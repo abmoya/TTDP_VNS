@@ -1,6 +1,6 @@
 {
   "instances_path": "../data/tdoptw",
-  "output_path": "../results3",
+  "output_path": "../results",
   "file_prefix": "1",
   "file_suffix": "2",
   "num_iterations": 1,
