@@ -1,0 +1,9 @@
+{
+  "instances_path": "../data/tdoptw",
+  "output_path": "../results3",
+  "file_prefix": "1",
+  "file_suffix": "2",
+  "num_iterations": 1,
+  "problem_type": "TOPTW",
+  "vns_variant": "BVNS"
+}
