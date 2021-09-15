@@ -13,7 +13,7 @@ Este repositorio recoge la implementación en Python del algoritmo VNS en su ver
 El contenido se estructura como sigue:
 
 * ttdp: Código en Python
-* data: Instancias de prueba. Todas ellas pueden obtenerse en https://www.mech.kuleuven.be/en/cib/op/instances. Se agrupan en dos grupos, toptw y tdtoptw.
+* data: Instancias de prueba. Todas ellas pueden obtenerse en https://www.mech.kuleuven.be/en/cib/op/instances. Se agrupan en dos carpetas, toptw y tdtoptw.
 * results: Se subdivide a su vez en:
    * csv: El resultado de la ejecución genera un fichero csv con la información de los parámetros de ejecución y el resultado obtenido, que se almacena por defecto en este directorio
    * json: En instancias con información de posición, es posible generar ficheros json con la información de los POIs y de las soluciones generadas en el proceso, que posteriormente pueden visualizarse gráficamente.
